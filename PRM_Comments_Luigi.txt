@@ -1,0 +1,9 @@
+PRM Comments:
+
+What does it mean that some reported wages are so low?
+
+Is it important to group over the states? Isn't it the Federal government that is doing the selection? Maybe these are unimportant features.
+
+Instead of selecting n clusters piecemail, you could plot the number of clusters vs the intertia to find the elbow for a proper number of clusters.
+
+I'd like to understand your thought process a little better. Are you trying to find a cluster of denied applicants that have some features in common? Or do you intend to ask: is the selection process for H1B visas actually random? If it's the latter you could look at the Accepted and Denied groups individually and see if they have identical (within error) average or median feature values. You could look to see if they have similar clusters and cluster centers. This is just changing exactly what you are asking of the data.
