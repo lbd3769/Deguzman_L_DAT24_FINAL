@@ -1,0 +1,5 @@
+You did a really good job with very messy data - we've gone over your data cleansing steps and everything seems good. 
+
+I would definitely group the data along every dimension possible. You can group the states into regions of the US, group the job codes into different overall fields or subjects and group the zip codes into urban and suburban areas. This will help you with the overall clustering story and definitely make your computer's job a lot easier and more efficient. 
+
+I would also definitely focus on the storytelling aspect of the model, you're already doing a good job of that by looking at the content of the clusters at different n values instead of just focusing on the inertia. 

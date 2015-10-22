@@ -1,0 +1,11 @@
+Hi Luigi,
+
+	I went through your code and here are some comments:
+
+1)	I don’t see you graphing the inertia as the clusters change, this is how you should get the right number of clusters as it was shown in class where you have that elbow in the graph is the best number for clusters. 
+2)	I also think it may have been helpful to group the wages into groups of wages perhaps like 50-60K, 60-75K, etc. This way you can group them much better as you have specific groups.
+3)	Also since you have 50 states, I am not sure having all 50 of them as a feature would make a difference, perhaps group those as well into Eastern US, Western US, etc.
+4)	Other than this, I think you have done a lot of stuff with the data which looks great. Perhaps some more graphing would look good as well to show what each cluster is comprised of. 
+5)	Looking forward to seeing the final presentation.
+
+Vipul
